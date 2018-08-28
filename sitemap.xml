@@ -913,12 +913,6 @@
   <loc>https://dexdelta.github.io/#!/trade/FRD-ETH</loc>
  </url>
  <url>
-  <loc>https://dexdelta.github.io/#!/trade/FUCK-ETH</loc>
- </url>
- <url>
-  <loc>https://dexdelta.github.io/#!/trade/FUCKOLD-ETH</loc>
- </url>
- <url>
   <loc>https://dexdelta.github.io/#!/trade/FUDD-ETH</loc>
  </url>
  <url>
@@ -2147,5 +2141,11 @@
  </url>
  <url>
   <loc>https://dexdelta.github.io/#!/trade/cV-ETH</loc>
+ </url>
+ <url>
+  <loc>https://dexdelta.github.io/#!/trade/FRAS-ETH</loc>
+ </url>
+ <url>
+  <loc>https://dexdelta.github.io/#!/trade/KCS-ETH</loc>
  </url>
 </urlset>
