@@ -1011,6 +1011,7 @@
     { "addr": "0xfcd22febddc9c52bfefc2e762217dc4cd0325bd3", "name": "PT", "decimals": 2 },
     { "addr": "0xcfc2437916A6df165235272dbfb116687bb1A00b", "name": "PLCN", "decimals": 18 },
     { "addr": "0xC60000ba92B436BC165fd48D803BcE95A099AB67", "name": "FRAS", "decimals": 8 },
+    { "addr": "0x414b23b9deb0da531384c5db2ac5a99ee2e07a57", "name": "TPC", "decimals": 18 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "WABI", "base": "ETH" }
