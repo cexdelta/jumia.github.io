@@ -1013,6 +1013,7 @@
     { "addr": "0xC60000ba92B436BC165fd48D803BcE95A099AB67", "name": "FRAS", "decimals": 8 },
     { "addr": "0x414b23b9deb0da531384c5db2ac5a99ee2e07a57", "name": "TPC", "decimals": 18 },
     { "addr": "0xaa350dc845c91e9286c8aaaccd7602c86348a446", "name": "RCA", "decimals": 18 },
+    { "addr": "0x7a6542e629630a6a2c89ccce098386dcec39f6cf", "name": "XEN", "decimals": 8 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "WABI", "base": "ETH" }
