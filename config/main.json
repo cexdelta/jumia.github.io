@@ -1016,6 +1016,7 @@
     { "addr": "0x7a6542e629630a6a2c89ccce098386dcec39f6cf", "name": "XEN", "decimals": 8 },
     { "addr": "0xEf5e8Fc138F08aDe0a6D419699fd34f4720E6A38", "name": "FOZ", "decimals": 18 },
     { "addr": "0xABccaAdd77078A67622dFD5f74066ce4581c0a99", "name": "MAME", "decimals": 8 },
+    { "addr": "0x8b0c9f462c239c963d8760105cbc935c63d85680", "name": "SHNZ2", "decimals": 8 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "WABI", "base": "ETH" }
