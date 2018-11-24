@@ -1019,6 +1019,9 @@
     { "addr": "0x24D77c210a014b1E123a0878F6C903Df74A2317B", "name": "BXT", "decimals": 8 },
     { "addr": "0x3f53c5193d46d0101c43ce560ad1426c797ee462", "name": "EDC", "decimals": 18 },
     { "addr": "0x9996a0b4d0d7ed1b7e41ad08bdc4acb198e232a9", "name": "REGI", "decimals": 18 },
+    { "addr": "0xdea60e5e4a448b4087be3a7482dec483d497e6ea", "name": "BTCJK", "decimals": 18 },
+    { "addr": "0x5c123ca748ef9de7c7299987f275e3989cbcc833", "name": "UBTC", "decimals": 18 },
+    { "addr": "0x254f1d72c180827668e2c947935e3cf4c2742834", "name": "BTCLSK", "decimals": 18 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "DEX", "base": "ETH" }
