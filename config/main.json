@@ -1023,6 +1023,7 @@
     { "addr": "0x5c123ca748ef9de7c7299987f275e3989cbcc833", "name": "UBTC", "decimals": 18 },
     { "addr": "0x254f1d72c180827668e2c947935e3cf4c2742834", "name": "BTCLSK", "decimals": 18 },
     { "addr": "0x0a680e503fd9ae14b62444c75ffb4bef1f105666", "name": "GZM", "decimals": 8 },
+    { "addr": "0x5f5f8a9c9775499b783171ac1979b4327ab60447", "name": "XFRC", "decimals": 18 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "DEX", "base": "ETH" }
