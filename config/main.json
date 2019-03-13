@@ -1025,6 +1025,7 @@
     { "addr": "0x0a680e503fd9ae14b62444c75ffb4bef1f105666", "name": "GZM", "decimals": 8 },
     { "addr": "0x5f5f8a9C9775499b783171ac1979b4327ab60447", "name": "XFRC", "decimals": 18 },
     { "addr": "0x1D287CC25dAD7cCaF76a26bc660c5F7C8E2a05BD", "name": "FET", "decimals": 18 },
+    { "addr": "0xD9224c45C012D9B09BcF8E3347F5E3d084e3AfC6", "name": "DOGET", "decimals": 2 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "DEX", "base": "ETH" }
