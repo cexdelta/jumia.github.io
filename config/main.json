@@ -1028,6 +1028,7 @@
     { "addr": "0x411079f1B50AC2583a458A7CcE1D1aFdF4F8842E", "name": "MS", "decimals": 18 },
     { "addr": "0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa", "name": "ETHMNY", "decimals": 2 },
     { "addr": "0x515bA0a2E286AF10115284F151cF398688A69170", "name": "TenX", "decimals": 18 },
+    { "addr": "0xc36e2C02e64585c15794B8e25E826d50b15fd878", "name": "ANIME", "decimals": 8 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "DEX", "base": "ETH" }
